@@ -63,3 +63,5 @@ rasa run actions
 ```bash
 rasa train
 ```
+## Note 
+You can find each repository on my GitHub.
